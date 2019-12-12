@@ -8,7 +8,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Lectio 99 [Basel Transcription]</title>
+          <title>Conclusio 5 [Rome 1489 Transcription]</title>
           <date when="2019-12-11">December 11, 2019</date>
         </edition>
       </editionStmt>
@@ -83,13 +83,13 @@
             <pb ed="#R" n="59"/>
             <lb ed="#R" n="1"/>Quod intelligere. scire. credere. opinari. suspicari. con- 
             <lb ed="#R" n="2"/>iectari. et dubitar. inter se conveniunt et differunt. 
-            <lb ed="#R" n="3"/>Complex in genere: secundum Aristoteles, in libro de anima: est operatio intellectus. 
+            <lb ed="#R" n="3"/>Complex in genere: secundum <ref xml:id="ooij7j-d1e108-Rd1e173">Aristoteles, in libro de anima</ref>: est operatio intellectus. 
             <lb ed="#R" n="4"/>Prima qua fomat simplices rerum quidditates et conceptus: vt quid  
-            <lb ed="#R" n="5"/>est homo: vel quid animal. et haec operatio vocatur a philosopis formatio  
+            <lb ed="#R" n="5"/>est homo: vel quid animal. et haec operatio vocatur a philosophis formatio  
             <lb ed="#R" n="6"/>vel simplex intelligentia. In qua quidem operatione non inuenitur verum per 
             <lb ed="#R" n="7"/>se nec falsum sicut nec in vocibus incomplexis: vt in libro perihermenias scri 
             <lb ed="#R" n="8"/>bitur. et ideo sicut vox incomplexa non conceditur nec negatur: ita secundum hanc ope 
-            <lb ed="#R" n="9"/>ratioem intellectus non assentit nec dissentit. Sccunda operatio intellectus 
+            <lb ed="#R" n="9"/>ratioem intellectus non assentit nec dissentit. Secunda operatio intellectus 
             <lb ed="#R" n="10"/>est secundum quam componit et diuidit affirmando et negando: in qua verum vel fal  
             <lb ed="#R" n="11"/>sum inuenitur sicut in voce complexa que est eius signum: iuxta illud primo peri 
             <lb ed="#R" n="12"/>hermenias sunt ea que sunt in voce earum que sunt in anima passionum note. 
@@ -109,7 +109,7 @@
             <lb ed="#R" n="26"/>euidentibus: aut mediante sensu memoria experientia euidenter notis: vt  
             <lb ed="#R" n="27"/>omne totum est maius sua parte: vel omnis ignis est calidus. et talis habitus 
             <lb ed="#R" n="28"/>principiorum ideo appellatur intellectus: quia est imediate per naturam potentiae 
-            <lb ed="#R" n="29"/>intellectiuae et non per pobationem aliquam vel auctoritatem innatus. Alio modo  
+            <lb ed="#R" n="29"/>intellectiuae et non per probationem aliquam vel auctoritatem innatus. Alio modo  
             <lb ed="#R" n="30"/>potest considerari intellectus noster secundum ordinem ad rotionem quae ad intellectum 
             <lb ed="#R" n="31"/>vel visionem terminatur dum resoluendo conclusiones in principia per se nota 
             <lb ed="#R" n="32"/>earum certitudinem efficit. et haec est dispositio scientis per habitum scientiae. 
@@ -132,28 +132,28 @@
             <lb ed="#R" n="6"/>uemur ad credendum: et sic in credente ratio non determinat per se intellectus: vt  
             <lb ed="#R" n="7"/>aliqui falso opinantur: sed voluntas. vnde Augustinus. dicit: quod cetera potest homo nol-  
             <lb ed="#R" n="8"/>lens: credere autaem non nisi volens. Et hinc est quod fides dicitur habitus fir- 
-            <lb ed="#R" n="9"/>miter adhaesiuus propositionibus no cuidentibus propter solam auctoritatem dicen 
+            <lb ed="#R" n="9"/>miter adhaesiuus propositionibus no euidentibus propter solam auctoritatem dicen 
             <lb ed="#R" n="10"/>tis cum imperio voluntatis. Quando vero ratio quae movet ad alteram partem  
-            <lb ed="#R" n="11"/>contradictionis non sufficit ad determinadum intellectum: quia non resoluit con 
-            <lb ed="#R" n="12"/>clusionem in principia per se nota: neque sufficit ad determinadum voluntatem 
+            <lb ed="#R" n="11"/>contradictionis non sufficit ad determinandum intellectum: quia non resoluit con 
+            <lb ed="#R" n="12"/>clusionem in principia per se nota: neque sufficit ad determinandum voluntatem 
             <lb ed="#R" n="13"/>vt honum videatur illi parti adhaerere: tunc homo opinatur illud cui adhaeret 
             <lb ed="#R" n="14"/>Et haec est ratio quare credere est in libera potestate hominis et non opinari. Et  
             <lb ed="#R" n="15"/> cum per rationes probabiles intellectus non determinetur perfecte: quia semper 
             <lb ed="#R" n="16"/>remanet motus ad contratrium: accipit enim vnam partem contradictionis cum  
             <lb ed="#R" n="17"/>formidine et dubitatione alterius: ideo opinans non totaliter assentit. vnde opi- 
             <lb ed="#R" n="18"/>nio est habitus infirmus: id est cum formidine de opposito de aliqua proposi  
-            <lb ed="#R" n="19"/>tione generabilis per praemissas pobabiles non tamen certas seu euidentes. Quando 
+            <lb ed="#R" n="19"/>tione generabilis per praemissas probabiles non tamen certas seu euidentes. Quando 
             <lb ed="#R" n="20"/>vero homo non habet rationem ad vnam partem magis quam ad aliam: sicut in illis  
             <lb ed="#R" n="21"/>probleumatibus de quibus rationes no habemus. quod nescientis est: vel pro  
             <lb ed="#R" n="22"/>pter apparentem aequalitatem eorum que mouent ad vtramque partem: quod dubitan 
-            <lb ed="#R" n="23"/>tis est. tunc nulio modo intellectus assentit: cum nulio modo determinetur eius 
+            <lb ed="#R" n="23"/>tis est. tunc nullo modo intellectus assentit: cum nulio modo determinetur eius 
             <lb ed="#R" n="24"/>iudicium vel neutralitas: sed aequaliter inter duas partes contradictionis fluctu  
             <lb ed="#R" n="25"/>et si aliquod debile signum apparens verisimile plus pro vna parte quam pro alia  
             <lb ed="#R" n="26"/>habet: tunc aliquantulum vni inclinatur sed dubitat de alterius veritate et adhuc 
             <lb ed="#R" n="27"/>neutri assentit. Cum autem signum multum verisimile habet pro vna parte:  
             <lb ed="#R" n="28"/>tunc dimissa neutralitate iam suspicatur de alia. Unde suspitio est habitus in- 
             <lb ed="#R" n="29"/>firmiter adhaesiuus de propositione contingenter vera generatus solum ex qui-  
-            <lb ed="#R" n="30"/>busdam signis rhetoricis: que nihil pohibet ee vera: quamuis propositio cui in- 
+            <lb ed="#R" n="30"/>busdam signis rhetoricis: que nihil prohibet ee vera: quamuis propositio cui in- 
             <lb ed="#R" n="31"/>tellectus assentit sit falsa: vt si Titius esset fur: et quis videns eum de nocte 
             <lb ed="#R" n="32"/>errabundum assentiret propter hoc signum quod Titius esset fur: talis assensus esset 
             <lb ed="#R" n="33"/>suspitio vel coniecturatio. Patet ergo ex dictis quod in illa operatione intellectus 
@@ -183,15 +183,15 @@
             <lb ed="#R" n="13"/>firmissimae eis assentiat. quantum enim est ex seipso non est ei satisfactum neque est  
             <lb ed="#R" n="14"/>terminatus ad vnum: sed terminatur tantum ab extrinseco scilicet a volutate. et inde 
             <lb ed="#R" n="15"/>est quod intellectus credentis dicitur esse captiuatus: quia tenetur terminis ali-  
-            <lb ed="#R" n="16"/>enis et non propriis. ii ad Corinth. x. In captiuitatem redigentes omnem in  
-            <lb ed="#R" n="17"/>tellectum in obsequium christi. Inde etiam est quod in credente potest insurgere mo  
+            <lb ed="#R" n="16"/>enis et non propriis. <ref xml:id="ooij7j-d1e108-Rd1e392">ii ad Corinth. x</ref>. <quote xml:id="ooij7j-d1e108-Qd1e396" source="http://scta.info/resource/IIcor10_5">In captiuitatem redigentes omnem in  
+            <lb ed="#R" n="17"/>tellectum in obsequium christi</quote>. Inde etiam est quod in credente potest insurgere mo  
             <lb ed="#R" n="18"/>tus de contrario huius quod firmissime tenet: quamuis non in intelligente nec  
             <lb ed="#R" n="19"/>sciente. Per assensum igitur separatur credere ab operatione qua intellectus 
             <lb ed="#R" n="20"/>inspicit fomas simplices: et a dubitatione suspitione et opinione. Per cogita 
             <lb ed="#R" n="21"/>tionem vero ab intellectu: sed per hoc habet assensum et cogitationem quasi ex 
             <lb ed="#R" n="22"/>aequo differt credere a scientia. Unde Augustinus in libro de praedestinatione sanctorum 
-            <lb ed="#R" n="23"/>et habetur in glossa ii. ad Corinth. iii. super illud: Non quod sufficientes sumus co 
-            <lb ed="#R" n="24"/>gitare aliquid ex nobis quasi ex nobis. Credere inquit est cum assensione cog 
+            <lb ed="#R" n="23"/>et habetur in glossa ii. ad Corinth. iii. super illud: <quote xml:id="ooij7j-d1e108-Qd1e414" source="http://scta.info/resource/IIcor3_5">Non quod sufficientes sumus co 
+            <lb ed="#R" n="24"/>gitare aliquid ex nobis quasi ex nobis</quote>. Credere inquit est cum assensione cog 
             <lb ed="#R" n="25"/>gitare. vnde errant qui dicunt quod cogitatio siue rationis inquisitio faciens appa 
             <lb ed="#R" n="26"/>rere intellectum id quod creditur praeexigitur de per se ex parte intellectus ad  
             <lb ed="#R" n="27"/>assensum fidei: vt statim videbitur. 
@@ -205,25 +205,33 @@
             <lb ed="#R" n="31"/>actu elicito ab habitu. Sumendo credere pro actu: vno quidem mo 
             <lb ed="#R" n="32"/>do accipitur conmunissime et tunc idem est quod assentire sic esse vel fu  
             <lb ed="#R" n="33"/>isse vel futurum esse vel posse esse in re: sicut per aliquam propositionem denotatur 
-            <lb ed="#R" n="34"/>hoc modo credimus illa que scimus ilia quae opinamur. vnde hugo libro  
-            <lb ed="#R" n="35"/>primo suarum sententiarum. Fides est perceptio veritatis cuiuscunque rei cum assensione  
+            <lb ed="#R" n="34"/>hoc modo credimus illa que scimus ilia quae opinamur. vnde <ref xml:id="ooij7j-d1e108-Rd1e446">hugo libro  
+            <lb ed="#R" n="35"/>primo suarum sententiarum</ref>. Fides est perceptio veritatis cuiuscunque rei cum assensione
+          </p>
+          <p xml:id="ooij7j-d1e108-d1e452">
             <lb ed="#R" n="36"/>Secundo modo accipitur credere stricte pro assensione siue formidine saltem  
             <lb ed="#R" n="37"/>actuali propositionibus de quarum veritate non constat nisi per testimonium aliorum  
             <lb ed="#R" n="38"/>vel aliunde citra euidentiam: et sic dicimur credere ea quae no videmus neque  
-            <lb ed="#R" n="39"/>per sensum neque per rotion. vnde Augustinus super Io. omelia. iiii. Quid est fides  
+            <lb ed="#R" n="39"/>per sensum neque per rotion. vnde <ref xml:id="ooij7j-d1e108-Rd1e462">Augustinus super Io. omelia. iiii.</ref> Quid est fides  
             <lb ed="#R" n="40"/>nisi credere quae non vides. Tale autem credere etsi distinguatur a scire no distin  
             <!--62.xml-->
             <pb ed="#R" n="62"/>
             <lb ed="#R" n="1"/>guitur tamen ab opinari cum includat formidinem saltem habitualem. gene- 
             <lb ed="#R" n="2"/>ratur enim per imperium voluntatis concurrente ad hoc testimonio vel auctoritate: 
-            <lb ed="#R" n="3"/>vel etiam dialetica vel probabili ratione. Tertio modo accipitur credere strictius 
+            <lb ed="#R" n="3"/>vel etiam dialetica vel probabili ratione.
+          </p>
+          <p xml:id="ooij7j-d1e108-d1e479">
+            Tertio modo accipitur credere strictius 
             <lb ed="#R" n="4"/>pro assensione sine formidine simpliciter tam actuali quam habituali talibus de 
             <lb ed="#R" n="5"/>quorum veritate non habetur euidentia sensus vel rationis naturalis: sed constat  
             <lb ed="#R" n="6"/>de eis per reuelationes a deo immediate vel mediate factam. et hoc est credere 
-            <lb ed="#R" n="7"/>christianae ea que pertinent ad falutem. De hoc credere loquitur magister sententiarum  
-            <lb ed="#R" n="8"/>li. iii. di. xxiii. c. ii. Fides inquit est virtus qua creduntur quae non videntur. quod  
+            <lb ed="#R" n="7"/>christianae ea que pertinent ad falutem. De hoc credere loquitur <ref xml:id="ooij7j-d1e108-Rd1e489"><name>magister</name> sententiarum  
+            <lb ed="#R" n="8"/>li. iii. di. xxiii. c. ii</ref>. <quote xml:id="ooij7j-d1e108-Qd1e497" source="http://scta.info/resource/pl-l3d23c2-d1e115">Fides inquit est virtus qua creduntur quae non videntur. quod  
             <lb ed="#R" n="9"/>tamen non de omnibus que non videntur accipiendum est: sed de his tantum quae cre 
-            <lb ed="#R" n="10"/>dere: vt ait Augustinus in Encheridion ad religionea pertinent. Quarto accipitur 
+            <lb ed="#R" n="10"/>dere: vt ait Augustinus in Encheridion ad religionea pertinent</quote>.
+          </p>
+          <p xml:id="ooij7j-d1e108-d1e505">
+            Quarto accipitur 
             <lb ed="#R" n="11"/>credere strictissime pro assensione vt dictum est cum complacentia voluntatis in  
             <lb ed="#R" n="12"/>obiecto fidei ex charitate procedente. Et sic credere est ex fide quae per dilectonem 
             <lb ed="#R" n="13"/>operatur. vnde magister vbi supra. c. iii. aliud est credere in deum: aliud credere 
@@ -241,11 +249,11 @@
             <lb ed="#R" n="25"/>currente ad hoc testimonio scripturarum vel auctoritate humana: vel etiam dialetica 
             <lb ed="#R" n="26"/>vel probabili ratione et haec fides acquisita pro quanto innititur fallibili veritati 
             <lb ed="#R" n="27"/>vtputa rationi naturali seu humanae persuasioni vel auctoritati hominis vel miracuio  
-            <lb ed="#R" n="28"/>de quo non constat propter quid sit factum: dicit beatus Thomas in. iii. sen. 
-            <lb ed="#R" n="29"/>quod talis fides nibil aliud est quam opinio rationibus firmata: quae quantumcumque crescam 
+            <lb ed="#R" n="28"/>de quo non constat propter quid sit factum: dicit <name>beatus Thomas</name> in. iii. sen. 
+            <lb ed="#R" n="29"/>quod talis fides nihil aliud est quam opinio rationibus firmata: quae quantumcumque crescam 
             <lb ed="#R" n="30"/>non sufficiat ad determinandum intellectum assentiat sine formidine actualiter  
             <lb ed="#R" n="31"/>vel habituali. quod si contingat per talem fidem sine formidine actuali assentire 
-            <lb ed="#R" n="32"/>hoc facit affectio voluntatis: que secundum Petrum de Alliaco cum aliquo motiuo  
+            <lb ed="#R" n="32"/>hoc facit affectio voluntatis: que secundum <name>Petrum de Alliaco</name> cum aliquo motiuo  
             <lb ed="#R" n="33"/>paruo potest auferre omnem formidinem actualem. Nam respectum cuiuscumque 
             <lb ed="#R" n="34"/>propositiiois cuius oppositum non est euidens firmiorem assensum potest in intelle 
             <lb ed="#R" n="35"/>ctum causare voluntas per suum imperium cum aliquo motiuo quam quaecunque suasio sine 
@@ -279,7 +287,7 @@
             <lb ed="#R" n="19"/>crae scripturae propter auctoritatem dei reuelantis. de qua Aplus ad hebe. xi. dicit:  
             <lb ed="#R" n="20"/>quod fides est substantia rerum sperandarum argumentum non apparentium. et ad Ephae. 
             <lb ed="#R" n="21"/>ii. Gratia estis saluati per fidem et non ex vobis ne quis glorietur: donum enim  
-            <lb ed="#R" n="22"/>dei est. Et ad hebr. xi. <quote xml:id="ooij7j-d1e108-Qd1e594">Sine fide impossibile est placere deo</quote>. Ad hanc autem  
+            <lb ed="#R" n="22"/>dei est. Et ad hebr. xi. <quote xml:id="ooij7j-d1e108-Qd1e594" source="http://scta.info/resource/hebr11_6">Sine fide impossibile est placere deo</quote>. Ad hanc autem  
             <lb ed="#R" n="23"/>fidem duo requiruntur secundum Thom. ii. ii. quorum vnum est vt homini credibilia pro  
             <lb ed="#R" n="24"/>ponantur: quod requiritur ad hoc homo aliquid explicite credat. Aliud autem 
             <lb ed="#R" n="25"/>quod ad fidem requiritur est assensus credentis ad ea que proponuntur. Pri 
@@ -392,7 +400,7 @@
             <lb ed="#R" n="26"/>tia alicuius per se noti vt in primis principiis: vel ex per se notis dedu-  
             <lb ed="#R" n="27"/>cti vt in conclusionibus: vt patet ex dictis. sed veritates fidei christianae non sunt per se notae 
             <lb ed="#R" n="28"/>neque ex per se notis deductae: iuxta illud Ecclesiastici. xiii. Plurima supra sensum  
-            <lb ed="#R" n="29"/>ostensa sunt tibi. Et hinc est quod fides secundum Apostolum ad Romanos xi dicitur <quote xml:id="ooij7j-d1e108-Qd1e821">substantia rerum spe 
+            <lb ed="#R" n="29"/>ostensa sunt tibi. Et hinc est quod fides secundum <ref xml:id="ooij7j-d1e108-Rd1e861">Apostolum ad Romanos xi</ref> dicitur <quote xml:id="ooij7j-d1e108-Qd1e821" source="http://scta.info/resource/hebr11_1">substantia rerum spe 
             <lb ed="#R" n="30"/>randarum argumentum non apparentium</quote>. Confirmatur ista ratio: quia omnis demonstratio ne 
             <lb ed="#R" n="31"/>cessitat intellectum ad assentiendum. sed aliquid videntes christum lazarum resuscitantem  
             <lb ed="#R" n="32"/> et alia miracula facientem non assenserunt quod ipse esset deus: vt patet Jo: xi. quod etiam 
@@ -776,7 +784,7 @@
             <lb ed="#R" n="41"/>firmam certitudinem actualem de his quae credit quod est haereticum. Confir- 
             <!--73.xml-->
             <pb ed="#R" n="73"/>
-            <lb ed="#R" n="1"/>matur ista opinio per Apostolum ad hebr. xi. <quote xml:id="ooij7j-d1e108-Qd1e1578">Fides inquit est substantia rerum spe 
+            <lb ed="#R" n="1"/>matur ista opinio per Apostolum ad hebr. xi. <quote xml:id="ooij7j-d1e108-Qd1e1578" source="http://scta.info/resource/hebr11_1">Fides inquit est substantia rerum spe 
             <lb ed="#R" n="2"/>randarum argumentum non apparentium</quote>. Item Johannes Damascenus. iiii. sen. 
             <lb ed="#R" n="3"/>Fides est eorum quae sperantur hypostasis: id est subsistentia rerum quae non vi- 
             <lb ed="#R" n="4"/>dentur indistabilis et iniudicabilis species eorum quae a deo suntnobis annunciata 
@@ -786,8 +794,8 @@
             <lb ed="#R" n="8"/>tur quod fides non habet meritum cui humana ratio praebet experimentum. quaedam  
             <lb ed="#R" n="9"/>vero est ex scripturarum auctoritate seu testimonumiis secundum quod dicit Augustinus ad Paulinam: Si 
             <lb ed="#R" n="10"/>diuinarum scripturarum quae canonice in ecclesia nominantur perspicua aliquid firmatur 
-            <lb ed="#R" n="11"/>auctoritate: sine vlla dubitatione credendum est. Et ad hebr. xi. Hi omnes testimonio  
-            <lb ed="#R" n="12"/>fidei probati sunt. quedam vero est ex lumine gratiae infuso eleuante ipsum intelle 
+            <lb ed="#R" n="11"/>auctoritate: sine vlla dubitatione credendum est. Et ad hebr. xi. <quote xml:id="ooij7j-d1e108-Qd1e1647" source="http://scta.info/resource/hebr11_39">Hi omnes testimonio  
+            <lb ed="#R" n="12"/>fidei probati</quote> sunt. quedam vero est ex lumine gratiae infuso eleuante ipsum intelle 
             <lb ed="#R" n="13"/>ctum supra se ad assentiendum veritati primae propter se super omnia. Secundum 
             <lb ed="#R" n="14"/>quem modum dicit Augustinus ad Consentium: Fides est illuminatio mentis ad sum  
             <lb ed="#R" n="15"/>mam veritatem. et secundum hunc modum fides a Johanne Damasceno dicitur indista  
@@ -1370,8 +1378,8 @@
             Item quia si habenti fidem proponeretur hoc ipsum: an ecclesia regatur 
             <lb ed="#R" n="35"/>spiritu sancto. fides infusa inclinaret ad assentiendum magis quam articulis trinitatis et in- 
             <lb ed="#R" n="36"/>carnationis: qui sunt magis supra naturam. bene tamen verum est quod ad credendum scri- 
-            <lb ed="#R" n="37"/>pturae bene est primum creditum: vt dicit Augustinus: Euangelio non crede 
-            <lb ed="#R" n="38"/>rem etc. vt supra allegatum est. non tamen propter hoc sequitur: quod ad omne cre- 
+            <lb ed="#R" n="37"/>pturae bene est primum creditum: vt dicit Augustinus: <ref xml:id="ooij7j-d1e108-Rd1e2760">Euangelio non crede 
+            <lb ed="#R" n="38"/>rem</ref> etc. vt supra allegatum est. non tamen propter hoc sequitur: quod ad omne cre- 
             <lb ed="#R" n="39"/>dere requiratur: quia etiam ante omnem scripturam et ante ecclesiam quae secundum Gregorium  
             <lb ed="#R" n="40"/>incipit in Abel: in solo Adam fuit fides et actus credendi.
           </p>
@@ -1483,7 +1491,7 @@
             <lb ed="#R" n="35"/>Qui non crediderit condemnabitur. consequentia probatur: quia nullum est praeceptum nisi ad eius im 
             <lb ed="#R" n="36"/>pletionem accedat libertas voluntatis: quia in his que nobis praecise a nam insunt nec  
             <lb ed="#R" n="37"/>laudamur nec vituperamur. cum tamen secundum Augustinus in de spiritu et littera pro magna laude scri- 
-            <lb ed="#R" n="38"/>ptum sit ab Apostolo: Credidit Abraham deo et reputatum est sibi ad iusticiam. et iterum 
+            <lb ed="#R" n="38"/>ptum sit ab Apostolo: <quote xml:id="ooij7j-d1e108-Qd1e2985" source="http://scta.info/resource/rom4_3 http://scta.info/resource/gal3_6 http://scta.info/resource/iac2_23">Credidit Abraham deo et reputatum est sibi ad iusticiam</quote>. et iterum 
             <lb ed="#R" n="39"/>Credenti in eum qui iustificat impium reputatur fides ad iusticiam. sed quod nulio modo cadit  
             <lb ed="#R" n="40"/>sub libertate voluntatis non reputatur alicui ad iusticiam tanquam opus proprium  
             <!--86.xml-->
@@ -1521,7 +1529,7 @@
             <lb ed="#R" n="25"/>ptat ad vitam aeternam secundum leges a diuina sapientia statutas. ipsum autem credere est 
             <lb ed="#R" n="26"/>actus intellectus assentientis veritati diuinae ex imperio voluntatis a deo mote 
             <lb ed="#R" n="27"/>per gratiam. ergo credere fidei christianae est meritorium aeternae vitae. vnde ad hebr. 
-            <lb ed="#R" n="28"/>xi. scribitur quod sancti per fidem adepti sunt repromissiones. Si dicatur quod iste ratio- 
+            <lb ed="#R" n="28"/>xi. scribitur quod sancti <quote xml:id="ooij7j-d1e108-Qd1e3064" source="http://scta.info/resource/hebr11_33">per fidem adepti sunt repromissiones</quote>. Si dicatur quod iste ratio- 
             <lb ed="#R" n="29"/>nes non procedunt contra conclusionem principalem: nec contra propositionem cor- 
             <lb ed="#R" n="30"/>relariam: quia non negatur simpliciter quod credere sit in libera potestate hominis: sed negatur 
             <lb ed="#R" n="31"/>cum restrictione vel determinatione posita in antecedente. sic videlicet: quod non est in libera 
@@ -1562,7 +1570,10 @@
             <lb ed="#R" n="22"/>batum est. ergo credere est in libera potestate hominis quando sibi placet. Item cum quis credit 
             <lb ed="#R" n="23"/>aut credit cum sibi placet: aut quando sibi displicet: aut quando nec sibi placet nec dis-  
             <lb ed="#R" n="24"/>plicet. si primum habetur propositum. si secundum et tercium sequitur quod aliquis credit no-  
-            <lb ed="#R" n="25"/>lens aut nec volens nec nolens: quod est contra beatum Augustinus. Praeterea dato quod  
+            <lb ed="#R" n="25"/>lens aut nec volens nec nolens: quod est contra beatum Augustinus.
+          </p>
+          <p xml:id="ooij7j-d1e108-d1e3157">
+            Praeterea dato quod  
             <lb ed="#R" n="26"/>homo non credat qu vult credere: adhuc credere de facto est in libera hominis  
             <lb ed="#R" n="27"/>potestate cum sibi placet: quia quando homo vult credere: aut potest credere et non credere 
             <lb ed="#R" n="28"/>vel non potest. Si potest credere et non credere: ergo in libera potestate hominis est 
@@ -1576,8 +1587,8 @@
             <lb ed="#R" n="36"/>clusio praedicta in sensu pro quo sit sit erronea et distinctio nulla. Praeterea dato 
             <lb ed="#R" n="37"/>quod apparentia vel persuasio requiratur ad actum credendi: adhuc in libera potestate 
             <lb ed="#R" n="38"/>hominis est credere cum sibi placet: quia persuasio et apparentia non auferunt neque  
-            <lb ed="#R" n="39"/>dant homini liberam credendi potestantem: immo talis apparentia vel persuasio est in 
-            <lb ed="#R" n="40"/>libera potestante hominis quando sibi placet: quia in libera potestante hominis est quando sibi placet facere 
+            <lb ed="#R" n="39"/>dant homini liberam credendi potestatem: immo talis apparentia vel persuasio est in 
+            <lb ed="#R" n="40"/>libera potestate hominis quando sibi placet: quia in libera potestante hominis est quando sibi placet facere 
             <lb ed="#R" n="41"/>quod in se est. sed libere facienti quod in se est occurrent necessaria ad credendum  
             <lb ed="#R" n="42"/>et per consequens si apparentiae et persuasiones sunt necessariae secundum te: sequitur quod apparentiae 
             <!--88.xml-->
