@@ -225,7 +225,7 @@
             <lb ed="#R" n="4"/>pro assensione sine formidine simpliciter tam actuali quam habituali talibus de 
             <lb ed="#R" n="5"/>quorum veritate non habetur euidentia sensus vel rationis naturalis: sed constat  
             <lb ed="#R" n="6"/>de eis per reuelationes a deo immediate vel mediate factam. et hoc est credere 
-            <lb ed="#R" n="7"/>christianae ea que pertinent ad falutem. De hoc credere loquitur <ref xml:id="ooij7j-d1e108-Rd1e489"><name>magister</name> sententiarum  
+            <lb ed="#R" n="7"/>christianae ea que pertinent ad falutem. De hoc credere loquitur <ref xml:id="ooij7j-d1e108-Rd1e489"><name xml:id="ooij7j-d1e108-Nd1e490">magister</name> sententiarum  
             <lb ed="#R" n="8"/>li. iii. di. xxiii. c. ii</ref>. <quote xml:id="ooij7j-d1e108-Qd1e497" source="http://scta.info/resource/pl-l3d23c2-d1e115">Fides inquit est virtus qua creduntur quae non videntur. quod  
             <lb ed="#R" n="9"/>tamen non de omnibus que non videntur accipiendum est: sed de his tantum quae cre 
             <lb ed="#R" n="10"/>dere: vt ait Augustinus in Encheridion ad religionea pertinent</quote>.
@@ -249,11 +249,11 @@
             <lb ed="#R" n="25"/>currente ad hoc testimonio scripturarum vel auctoritate humana: vel etiam dialetica 
             <lb ed="#R" n="26"/>vel probabili ratione et haec fides acquisita pro quanto innititur fallibili veritati 
             <lb ed="#R" n="27"/>vtputa rationi naturali seu humanae persuasioni vel auctoritati hominis vel miracuio  
-            <lb ed="#R" n="28"/>de quo non constat propter quid sit factum: dicit <name>beatus Thomas</name> in. iii. sen. 
+            <lb ed="#R" n="28"/>de quo non constat propter quid sit factum: dicit <name xml:id="ooij7j-d1e108-Nd1e554">beatus Thomas</name> in. iii. sen. 
             <lb ed="#R" n="29"/>quod talis fides nihil aliud est quam opinio rationibus firmata: quae quantumcumque crescam 
             <lb ed="#R" n="30"/>non sufficiat ad determinandum intellectum assentiat sine formidine actualiter  
             <lb ed="#R" n="31"/>vel habituali. quod si contingat per talem fidem sine formidine actuali assentire 
-            <lb ed="#R" n="32"/>hoc facit affectio voluntatis: que secundum <name>Petrum de Alliaco</name> cum aliquo motiuo  
+            <lb ed="#R" n="32"/>hoc facit affectio voluntatis: que secundum <name xml:id="ooij7j-d1e108-Nd1e566">Petrum de Alliaco</name> cum aliquo motiuo  
             <lb ed="#R" n="33"/>paruo potest auferre omnem formidinem actualem. Nam respectum cuiuscumque 
             <lb ed="#R" n="34"/>propositiiois cuius oppositum non est euidens firmiorem assensum potest in intelle 
             <lb ed="#R" n="35"/>ctum causare voluntas per suum imperium cum aliquo motiuo quam quaecunque suasio sine 
@@ -675,8 +675,8 @@
             <lb ed="#R" n="29"/>culose praeditus cognitione naturali facilius assentiret oppositis articulorum  
             <lb ed="#R" n="30"/>quam articulis. talis enim facilius crederet vnum esse suppositum in diuinis quam  
             <lb ed="#R" n="31"/>tria: et deum non esse hominem quam esse hominem. Secundo idem antecedens pro  
-            <lb ed="#R" n="32"/>batur per id quod dicit beatus Augustinus in epistola contra fundamentum  
-            <lb ed="#R" n="33"/>Manichei: <quote xml:id="ooij7j-d1e108-Qd1e1353">Euangelio non crederem nisi crederem ecclesiae approbanti</quote>. et iterum:  
+            <lb ed="#R" n="32"/>batur per id quod dicit <ref xml:id="ooij7j-d1e108-Rd1e1419" corresp="#ooij7j-d1e108-Qd1e1353">beatus Augustinus in epistola contra fundamentum  
+            <lb ed="#R" n="33"/>Manichei</ref>: <quote xml:id="ooij7j-d1e108-Qd1e1353" source="http://scta.info/resource/AgCMfu-sdf83a-d1e185" synch="139-149">Euangelio non crederem nisi crederem ecclesiae approbanti</quote>. et iterum:  
             <lb ed="#R" n="34"/>Euangelium nazareorum non admitto quia ecclesia non admittit. Assensus 
             <lb ed="#R" n="35"/>autem dependens ex appobatione ecclesiae est acquisitus. ergo fides infusa 
             <lb ed="#R" n="36"/>non sufficeret ad credendum articulos in euangelio contentos: si non con  
@@ -1458,7 +1458,7 @@
             Primo sic:  
             <lb ed="#R" n="9"/>Intellectus humanus non potest necessitari ad credendum. ergo quicquid credit sic  
             <lb ed="#R" n="10"/>libere credit: quod potest non credere. et per consequens tale credere est in libera potestate hominis  
-            <lb ed="#R" n="11"/>consequentia est nota. et antecedens probatur per <ref xml:id="ooij7j-d1e108-Rd1e2980"><name>Augustinum</name> super Io. omel: vi.</ref> quod intrare ecclesiam potest quis 
+            <lb ed="#R" n="11"/>consequentia est nota. et antecedens probatur per <ref xml:id="ooij7j-d1e108-Rd1e2980"><name xml:id="ooij7j-d1e108-Nd1e2984">Augustinum</name> super Io. omel: vi.</ref> quod intrare ecclesiam potest quis 
             <lb ed="#R" n="12"/>nolens: accedere ad altare nolens: credere autem non nisi volens. Item in <ref xml:id="ooij7j-d1e108-Rd1e2988">de spiritu 
             <lb ed="#R" n="13"/>et littera ad Marcellinum</ref> dicit: quod nihil aliud est credere nisi consentire verum esse quod 
             <lb ed="#R" n="14"/>dicitur: consensus autem est voluntatis. Ex quibus auctoritibus patet quod de mente beati 
@@ -1486,8 +1486,8 @@
           </p>
           <p xml:id="ooij7j-d1e108-d1e2920">
             Tercio arguitur sic: si credere non esset in 
-            <lb ed="#R" n="33"/>libera potestate hominis: tunc credere non caderet sub praecepto: quod est contra <quote xml:id="ooij7j-d1e108-Qd1e3042">Apostolum ad he- 
-            <lb ed="#R" n="34"/>brae. xi</quote>. qui praecipit quod <quote xml:id="ooij7j-d1e108-Qd1e3047" source="http://scta.info/resource/hebr11_6">accedente ad deum oportet credere</quote>. et Saluator <ref xml:id="ooij7j-d1e108-Rd1e3050">Math. vlt.</ref> 
+            <lb ed="#R" n="33"/>libera potestate hominis: tunc credere non caderet sub praecepto: quod est contra <ref xml:id="ooij7j-d1e108-Rd1e3042">Apostolum ad he- 
+            <lb ed="#R" n="34"/>brae. xi</ref>. qui praecipit quod <quote xml:id="ooij7j-d1e108-Qd1e3047" source="http://scta.info/resource/hebr11_6">accedente ad deum oportet credere</quote>. et Saluator <ref xml:id="ooij7j-d1e108-Rd1e3050">Math. vlt.</ref> 
             <lb ed="#R" n="35"/><quote xml:id="ooij7j-d1e108-Qd1e3054" source="http://scta.info/resource/mc16_16">Qui non crediderit condemnabitur</quote>. consequentia probatur: quia nullum est praeceptum nisi ad eius im 
             <lb ed="#R" n="36"/>pletionem accedat libertas voluntatis: quia in his que nobis praecise a nam insunt nec  
             <lb ed="#R" n="37"/>laudamur nec vituperamur. cum tamen secundum Augustinus in de spiritu et littera pro magna laude scri- 
@@ -1575,7 +1575,7 @@
             <lb ed="#R" n="11"/>imperium concurrat ad actum credendi vel non. 
             
             Et si dicatur quod non: vt defensor  
-            <lb ed="#R" n="12"/>praedictae conclusionis in suo apologetico tacite cum <name>Olchot</name> sentire videtur: conclu- 
+            <lb ed="#R" n="12"/>praedictae conclusionis in suo apologetico tacite cum <name xml:id="ooij7j-d1e108-Nd1e3225">Olchot</name> sentire videtur: conclu- 
             <lb ed="#R" n="13"/>ditur quod conclusio principalis cum correlaria propositione non solum haeresim sapere 
             <lb ed="#R" n="14"/>sed haeretice censeantur: vt argumenta conuincunt. 
             
